@@ -1,0 +1,20 @@
+Department_name,Department_code,Faculty,Faculty_Number
+Department of Electrical and Electronic Engineering,EEE,Computer & Electrical Engineering,43
+Department of Computer Science and Engineering,CSE,Computer & Electrical Engineering,44
+Department of Electronics and Telecommunication Engineering,ETE,Computer & Electrical Engineering,30
+Department of Electrical and Computer Engineering,ECE,Computer & Electrical Engineering,32
+Department of Civil Engineering,CE,Civil Engineering,50
+Department of Urban and Regional Planning,URP,Urban Planning and Architecture,25
+Department of Architecture,Arch,Urban Planning and Architecture,35
+Department of Building Engineering and Construction Management,BECM,Civil Engineering,40
+Department of Mechanical Engineering,ME,Civil Engineering,39
+Department of Industrial and Production Engineering,IPE,Civil Engineering,34
+Department of Chemical and Materials Engineering ,CME,Civil Engineering,35
+Department of Mechatronics Engineering,MTE,Civil Engineering,24
+Department of Materials Science and Engineering ,MSE,Civil Engineering,38
+Department of Chemical Engineering,ChE,Urban Planning and Architecture,35
+Department of Chemistry,Chem,General,25
+Department of Mathematics,Math,General,30
+Department of Physics,Phy,General,26
+Department of Humanities ,Hum,General,27
+Total_Department,18,,612

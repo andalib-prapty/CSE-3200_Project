@@ -1,0 +1,11 @@
+Hall_Name,Seat_capacity,Available_Seat,Male/Female,Hall_Supervisor,Supervisor_Department
+Shahid Lt. Selim Hall,350,0,Male,Md. Rashidul Islam,EEE
+Shahid Shahidul Islam Hall,225,5,Male,Abu Sayeed,EEE
+Shahid Abdul Hamid Hall,225,12,Male,Ahmed Hossain,CE
+Tin Shed Hall (Extension),100,6,Male,Barshon Sen,CSE
+Shahid President Ziaur Rahman Hall,480,22,Male,Md. Abdul Malek,ECE
+Bangabandhu Sheikh Mujibur Rahman Hall,250,6,Male,Md. Rakibul Islam,IPE
+Nawab Foyzunnessa Chowdhurani Hall,120,0,Female,Farzana Akter,ETE
+Female Hall-1,350,20,Female,Mst. Sharmin Mostari,CE
+Female Hall-2,350,15,Female,Mst. Esmotara Begum,CME
+Total_Count,2450,86,,,
